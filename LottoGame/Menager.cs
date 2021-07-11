@@ -8,6 +8,7 @@ namespace LottoGame
 {
     class Menager
     {
+        //321321321
         public Player player { get; set; }
          
        public Tote tote { get; set; }
